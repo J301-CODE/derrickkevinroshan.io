@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    top:15px;
+    background: linear-gradient(to right,blue,green);
+}
+h1{
+        font-family: 'Times New Roman', Times, serif;
+        color: black;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 5px;
+}
